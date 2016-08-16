@@ -1,5 +1,26 @@
 /* Hoja de estilos para proyecto web */
 
+/*
+    sintaxis de css
+    selector {
+        propiedad: valor;
+        propiedad: valor;
+        propiedad: valor;
+    }
+    selector { propiedad valor; }
+    // 3 tipos de selectores
+
+    // 1.- Tipo de etiqueta html
+    body { margin: 0; }
+
+    // 2.- Tipo clase (inicial con un punt0)
+    .negrita { font-height: bold; }
+
+    // 3.- tipo id (inicin con un #)
+    #titulo-principal {font-size: zem; }
+
+*/
+
 body {
     font-family: 'Helvertica Neve', 'Helvertica', 'sans-serif';
     '
