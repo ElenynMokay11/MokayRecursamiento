@@ -25,3 +25,9 @@ body {
     font-family: 'Helvertica Neve', 'Helvertica', 'sans-serif';
     '
 }
+#encabezado {}
+
+#encabezado>.titulos {}
+
+#barnav {}
+
